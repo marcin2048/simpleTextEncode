@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.2092
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleTextEncode", "simpleTextEncode\simpleTextEncode.csproj", "{DA9681F0-2D7A-4E58-A075-BAC350FD4530}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleTextEncoder", "simpleTextEncode\simpleTextEncoder.csproj", "{DA9681F0-2D7A-4E58-A075-BAC350FD4530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testConsole", "testConsole\testConsole.csproj", "{AC763DC0-2EE3-4755-AB85-4E6EE08A2CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleTextEncoderTests", "simpleTextEncoderTests\simpleTextEncoderTests.csproj", "{7E747353-2CDC-4794-8730-F935597F5419}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DA9681F0-2D7A-4E58-A075-BAC350FD4530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA9681F0-2D7A-4E58-A075-BAC350FD4530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA9681F0-2D7A-4E58-A075-BAC350FD4530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC763DC0-2EE3-4755-AB85-4E6EE08A2CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC763DC0-2EE3-4755-AB85-4E6EE08A2CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC763DC0-2EE3-4755-AB85-4E6EE08A2CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC763DC0-2EE3-4755-AB85-4E6EE08A2CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E747353-2CDC-4794-8730-F935597F5419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E747353-2CDC-4794-8730-F935597F5419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E747353-2CDC-4794-8730-F935597F5419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E747353-2CDC-4794-8730-F935597F5419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

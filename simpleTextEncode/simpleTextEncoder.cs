@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace simpleTextEncode
+namespace simpleTextEncoders
 {
 
     /// <summary>
@@ -21,6 +21,7 @@ namespace simpleTextEncode
         /// </summary>
         private static byte ascii_min = 32;
         private static byte ascii_max = 125;
+
 
         /// <summary>
         /// Function for easy string encryption
