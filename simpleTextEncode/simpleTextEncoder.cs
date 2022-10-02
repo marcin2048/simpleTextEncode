@@ -9,6 +9,9 @@ namespace simpleTextEncode
     /// but you want to hide it from sniffer / hacker eyes.
     /// 
     /// Biggest benefit is that it does not modify ascii special chars, like new line. So you can use this in big text files.
+    /// 
+    /// Author :    Marcin Kaminski (marcin.kaminski.gd (at) gmail.com)
+    /// 
     /// </summary>
     public class simpleTextEncoder
     {
